@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test4Application {
-      int m = 40;
+      
+      float = 40;
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 	}
