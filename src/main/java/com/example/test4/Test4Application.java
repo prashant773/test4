@@ -10,6 +10,7 @@ public class Test4Application {
         //first time edited
 		//edit for understanding conflict
 		int x = 10;
+		int y =100;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
