@@ -12,6 +12,7 @@ public class Test4Application {
 		int x = 10;
 		int y =100;
                 int z = 344;
+                float=45;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
