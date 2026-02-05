@@ -11,6 +11,7 @@ public class Test4Application {
 		//edit for understanding conflict
 		int x = 10;
 		int y =100;
+                int z = 344;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
