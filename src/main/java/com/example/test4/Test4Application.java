@@ -9,7 +9,7 @@ public class Test4Application {
 	public static void main(String[] args) {
         //first time edited
 		//edit for understanding conflict
-		//kbjbbklbkj
+		int x = 10;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
